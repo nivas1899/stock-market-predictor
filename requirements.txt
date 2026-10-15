@@ -1,0 +1,7 @@
+tensorflow==2.20.0
+numpy>=1.26,<3
+pandas>=2.2,<3
+streamlit>=1.41,<2
+plotly>=5.24,<7
+yfinance>=0.2.54,<1
+pytest>=8,<9
